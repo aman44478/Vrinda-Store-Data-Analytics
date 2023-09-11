@@ -6,24 +6,24 @@ The annual sales data of a store is used to analyse the sales pattern and derive
 
 **KPIs**
 
-*Compare the sales and orders using single chart.*
-*Which month got the highest sales and orders*
-*Who purchased more: Men or Women?
-*What are different order status in 2022
-*List top 10 states contributingto the sales
-*Relation between age and gender based on number of orders.
-*Which Channel is contributing maximum to the sales
-*Highest selling category
+Compare the sales and orders using single chart.
+Which month got the highest sales and orders
+Who purchased more: Men or Women?
+What are different order status in 2022
+List top 10 states contributingto the sales
+Relation between age and gender based on number of orders.
+Which Channel is contributing maximum to the sales
+Highest selling category
 
 **Project Insights**
 
-*Women customers are more likely to buy products compared to men (~65%).
+Women customers are more likely to buy products compared to men (~65%).
 
-*The states of Maharashtra, Karnataka and Uttar Pradesh are the top 3 product buyers.
+The states of Maharashtra, Karnataka and Uttar Pradesh are the top 3 product buyers.
 
-*The adult age group (30-49 yrs) is max contributing (~50%) and buys the most products.
+The adult age group (30-49 yrs) is max contributing (~50%) and buys the most products.
 
-*The maximum number of products customer orders from Amazon, Flipkart and Myntra channels.
+The maximum number of products customer orders from Amazon, Flipkart and Myntra channels.
 
 **Final Conclusion**
 To improve sales of Vrinda Store, women customers of the age group (30-49 yrs) living in Maharashtra, Karnataka and Uttar Pradesh must be targeted by showing ads/offers/coupons available on Amazon, Flipkart and Myntra.
